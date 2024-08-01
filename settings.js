@@ -4,33 +4,33 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
-global.ytname = "David Cyril"
-global.socialm = "GitHub: DeeCeeXxx"
+global.ownernomer = "94778853185"
+global.ownername = "🌹⃟𝕼𝖚𝖊⃯⃖𝖊𝖓͜͡💃⃟⃪𝕯𝖊⃖͢𝖛𝖎𝖑🌻⃯⃖"
+global.ytname = "Elon Musk"
+global.socialm = "GitHub: DeeCe"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.ownernumber = '94778853185'  //creator number
+global.ownername = '🌹⃟𝕼𝖚𝖊⃯⃖𝖊𝖓͜͡💃⃟⃪𝕯𝖊⃖͢𝖛𝖎𝖑🌻⃯⃖' //owner name
+global.botname = '🌹⃟𝕼𝖚𝖊⃯⃖𝖊𝖓͜͡💃⃟⃪𝕯𝖊⃖͢𝖛𝖎𝖑🌻⃯⃖' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.packname = 'STICKER BY'
+global.author = '🌹⃟𝕼𝖚𝖊⃯⃖𝖊𝖓͜͡💃⃟⃪𝕯𝖊⃖͢𝖛𝖎𝖑🌻⃯⃖\n\nContact: +23453'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "David Cyril Tech."
+global.wm = "🌹⃟𝕼𝖚𝖊⃯⃖𝖊𝖓͜͡💃⃟⃪𝕯𝖊⃖͢𝖛𝖎𝖑🌻⃯⃖."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
+global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOPCPom0L'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
